@@ -12,7 +12,7 @@ git remote add origin "url repo"- este comando te permite enlazar tu repositorio
 
 git status- este nos permite ver el estado de nuestro directorio, el entorno del ensayos y ver los archivos qie estan por subirse
 
-![image](https://user-images.githubusercontent.com/125385304/220133970-887b4390-7dfb-4228-b407-416a63141573.png)
+![image](https://user-images.githubusercontent.com/125385304/220140096-b92f40cf-9f0e-4def-8be5-afa39b78af49.png)
 
 
 git fetch origin main- un comando principal que se usa para descargar contenidos desde un repositorio remoto 
